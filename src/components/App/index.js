@@ -10,8 +10,8 @@ import StoryCard from '@hackoregon/component-library/lib/StoryCard/StoryCard';
 // import BarChart from '@hackoregon/component-library/lib/BarChart/BarChart';
 // import LeafletMap from '@hackoregon/component-library/lib/LeafletMap/LeafletMap';
 // import { Marker, Popup } from 'react-leaflet';
-import { BagelShop, FmaMap, PieWhatTheyDo } from '../index';
-import { HowWhenBusy, ResponseTimeVaries } from '../index';
+import { BagelShop, FmaMap, PieWhatTheyDo, HowWhenBusy, ResponseTimeVaries  } from '../index';
+
 
 const Container = styled.div`
   min-height: 100%;
